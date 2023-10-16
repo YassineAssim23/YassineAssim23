@@ -10,13 +10,9 @@
 
 - ⚙️ Collaborating on [InternNet](https://github.com/Intern-Net-App)
 
-- 👨‍💻 All of my projects are available @ [https://github.com/YassineAssim23](https://github.com/YassineAssim23)
-
 - 🌐 Check out my portfolio @ [https://yassineassim-portfolio.netlify.app/](https://yassineassim-portfolio.netlify.app/)
 
 - ⚙️ Currently working on **🎶 MelodyCapsule 🎶**
-
-- 📫 Lets connect! **https://www.linkedin.com/in/yassine-assim/**
 
 - 📄 Check my Resume @ [https://drive.google.com/file/d/17xFON3tSqVGW2IuktSqISiXEhUV1MhnF/view](https://drive.google.com/file/d/17xFON3tSqVGW2IuktSqISiXEhUV1MhnF/view)
 
