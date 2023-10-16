@@ -2,7 +2,7 @@
 <h3 align="center">some_stuff_about_me():</h3>
 
   
-- 👨🏻‍💻 Incoming Software QA Engineer @ [Evertz Microsystems](https://evertz.com/)
+- 👨🏻‍💻 Incoming Software Engineer @ [Evertz Microsystems](https://evertz.com/)
 
 - 🌱 I’m currently learning **Golang, Kotlin, Jest, Flask**
 
