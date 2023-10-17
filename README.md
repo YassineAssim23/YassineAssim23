@@ -1,21 +1,4 @@
 <h1 align="center">Hi 👋, I'm Yassine Assim</h1>
-<h3 align="center">some_stuff_about_me():</h3>
-
-  
-- 👨🏻‍💻 Incoming Software Engineer @ [Evertz Microsystems](https://evertz.com/)
-
-- 🌱 I’m currently learning **Golang, Kotlin, Jest, Flask**
-
-- 👨🏼‍🎓 2nd Year Software Engineer Student @ [Sheridan College](https://www.sheridancollege.ca/en)
-
-- ⚙️ Collaborating on [InternNet](https://github.com/Intern-Net-App)
-
-- 🌐 Check out my portfolio @ [https://yassineassim-portfolio.netlify.app/](https://yassineassim-portfolio.netlify.app/)
-
-- ⚙️ Currently working on **🎶 MelodyCapsule 🎶**
-
-- 📄 Check my Resume @ [https://drive.google.com/file/d/17xFON3tSqVGW2IuktSqISiXEhUV1MhnF/view](https://drive.google.com/file/d/17xFON3tSqVGW2IuktSqISiXEhUV1MhnF/view)
-
 <h3 align="left">Connect with me:</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yassine-assim)
